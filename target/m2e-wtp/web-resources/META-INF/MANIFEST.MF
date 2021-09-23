@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: DEV
+Build-Jdk: 11.0.10
+Created-By: Maven Integration for Eclipse
+Implementation-Title: AppControllerClient Maven Webapp
+Implementation-Vendor: com.static.dev
+Implementation-Version: 0.0.1
+
