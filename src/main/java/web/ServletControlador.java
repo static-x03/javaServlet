@@ -151,7 +151,7 @@ public class ServletControlador extends HttpServlet {
 				int registrosActualizados = clienteImp.update(cliente);
 				System.out.println("registros Actualizados : " + registrosActualizados);
 
-				// redireccion accion por default metodo get render
+				// redireccion accion por default metodo render
 				this.accionDefault(request, response);
 	}
 	
